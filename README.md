@@ -6,4 +6,6 @@
  <img align="center" alt="Lucas-Js" height="40" widht="50" src="https://www.svgrepo.com/show/349419/javascript.svg">
  <img align="center" alt="Lucas-css" height="40" widht="50" src="https://www.svgrepo.com/show/349330/css3.svg">
  <img align="center" alt="Lucas-HTML" height="40" widht="50" src="https://www.svgrepo.com/show/349402/html5.svg">
+ <img align="center" alt="Lucas-Windows" height="40" widht="50" src="https://www.svgrepo.com/show/349454/microsoft.svg">
+ <img align="center" alt="Lucas-Linux" height="40" widht="50" src="https://www.svgrepo.com/show/349437/linux.svg">
 </div>
