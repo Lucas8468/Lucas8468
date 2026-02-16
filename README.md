@@ -1,4 +1,5 @@
 <div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
   <h1>😊 Olá! Me chamo Lucas Brandão da Silva</h1>
   <p>Sou desenvolvedor web em constante evolução e apaixonado por criar soluções modernas.</p>
 <div align="center">
