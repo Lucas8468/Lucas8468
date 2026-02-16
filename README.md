@@ -17,7 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
-###
+<hr>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lucas-brand%C3%A3o-da-silva-baa82b367/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoUfK3QjuReuSWB5O0Ksnog%3D%3D" target="_blank">
