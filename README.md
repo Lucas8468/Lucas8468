@@ -4,7 +4,7 @@
 
   <img src="https://www.svgrepo.com/show/349488/react.svg" alt="React" width="40" height="40">
   <img src="https://www.datocms-assets.com/98835/1684410508-image-7.png" alt="Next" width="40" height="40">
-  <img src="https://assets-blog.hostgator.com.br/wp-content/uploads/2021/03/logo-angular.webp" alt="Angular" width="80" height="80">
+  <img src="https://cdn-icons-png.flaticon.com/128/15484/15484402.png" alt="Angular" width="80" height="80">
   <img src="https://img.icons8.com/?size=160&id=eETV3RNHVrWA&format=png" alt="Vue" width="40" height="40">
   <img src="https://www.svgrepo.com/show/349540/typescript.svg" alt="TS" width="40" height="40">
   <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="JS" width="40" height="40">
