@@ -2,7 +2,7 @@
   <h1>😊 Olá! Me chamo Lucas Brandão da Silva</h1>
   <p>Sou desenvolvedor web em constante evolução e apaixonado por criar soluções modernas.</p>
 
-  <div align="center">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
@@ -33,6 +33,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Lucas8468/Lucas8468/output/snake.svg" alt="Snake animation" />
 
