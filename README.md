@@ -1,5 +1,5 @@
 <p align="center">😊 Olá! Me chamo Lucas Brandão da Silva e sou desenvolvedor web em constante evolução. Seja bem-vindo ao meu perfil!</p>
-<alt href="https://curriculo-nine-steel.vercel.app/" target="_blank"><img align="center alt="Curriculo" height="40" widht="50"></a>
+<alt href="https://curriculo-nine-steel.vercel.app/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/8994/8994317.png" align="center"></a>
  <hr>
 <div>
  <img align="center" alt="Lucas-React" height="40" widht="50" src="https://www.svgrepo.com/show/349488/react.svg">
