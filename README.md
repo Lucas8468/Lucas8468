@@ -9,4 +9,4 @@
   <img src="https://www.svgrepo.com/show/349402/html5.svg" alt="HTML" width="40" height="40">
   <img src="https://www.svgrepo.com/show/349454/microsoft.svg" alt="Windows" width="40" height="40">
   <img src="https://www.svgrepo.com/show/349437/linux.svg" alt="Linux" width="40" height="40">
-
+</div>
