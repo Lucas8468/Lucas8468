@@ -4,6 +4,8 @@
 
   <img src="https://www.svgrepo.com/show/349488/react.svg" alt="React" width="40" height="40">
   <img src="https://www.datocms-assets.com/98835/1684410508-image-7.png" alt="Next" width="40" height="40">
+  <img src="https://assets-blog.hostgator.com.br/wp-content/uploads/2021/03/logo-angular.webp" alt="Angular" width="40" height="40">
+  <img src="https://miro.medium.com/1*OrjCKmou1jT4It5so5gvOA.jpeg" alt="Vue" width="40" height="40">
   <img src="https://www.svgrepo.com/show/349540/typescript.svg" alt="TS" width="40" height="40">
   <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="JS" width="40" height="40">
   <img src="https://www.svgrepo.com/show/349330/css3.svg" alt="CSS" width="40" height="40">
