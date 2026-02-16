@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>😊 Olá! Me chamo Lucas Brandão</h1>
+  <h1>😊 Olá! Me chamo Lucas Brandão da Silva</h1>
   <p>Sou desenvolvedor web em constante evolução e apaixonado por criar soluções modernas.</p>
 
   <img src="https://www.svgrepo.com/show/349488/react.svg" alt="React" width="40" height="40">
