@@ -54,6 +54,14 @@
   <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/elevenlabs.webp" height="40" alt="ElevenLabs"/>
   <img width="12" />
   <img src="https://sf16-web-tos-buz.capcutcdn-us.com/obj/capcut-web-buz-tx/growth/dreamina/static/image/dreamina.341a5ecb.png" height="40" alt="Dreamina Logo"/>
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/42988494?s=280&v=4" height="40" alt="PowerBI Logo"/>
+  <img width="12" />
+  <img src="https://make-cxp-documentation.ams3.digitaloceanspaces.com/apps-center-icons/microsoft-power-automate.png" height="40" alt="Power automate Logo"/>
+  <img width="12" />
+  <img src="https://logos-world.net/wp-content/uploads/2025/07/Django-Symbol.png" height="40" alt="Django Logo"/>
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/grok.png" height="40" alt="Grok Logo"/>
   </div>
 
 <hr>
