@@ -42,6 +42,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"/>
   <img width="12" />
   <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/llamaindex-color.png" height="40" alt="LlamaIndex Logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/langchain.webp" height="40" alt="LangChain Logo"/>
 </div>
 
 <hr>
