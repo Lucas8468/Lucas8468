@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/aws.webp" height="40" alt="amazonwebservices logo"/>
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/aws.png" height="40" alt="amazonwebservices logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -45,7 +45,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/langchain.webp" height="40" alt="LangChain Logo"/>
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/aws.png" height="40" alt="Vercel Logo"/>
+  <img src="" height="40" alt="Vercel Logo"/>
 </div>
 
 <hr>
