@@ -48,6 +48,8 @@
   <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/vercel.webp" height="40" alt="Vercel Logo"/>
   <img width="12" />
   <img src="https://raw.githubusercontent.com/HanaokaYuzu/Gemini-API/master/assets/banner.png" height="40" alt="Gemini Logo"/>
+  <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/128/12222/12222560.png" height="40" alt="ChatGPT logo"/>
 </div>
 
 <hr>
