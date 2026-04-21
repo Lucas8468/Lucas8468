@@ -52,7 +52,9 @@
   <img src="https://cdn-icons-png.flaticon.com/128/12222/12222560.png" height="40" alt="ChatGPT logo"/>
   <img width="12" />
   <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/elevenlabs.webp" height="40" alt="ElevenLabs"/>
-</div>
+  <img width="12" />
+  <img src="https://sf16-web-tos-buz.capcutcdn-us.com/obj/capcut-web-buz-tx/growth/dreamina/static/image/dreamina.341a5ecb.png" height="40" alt="Dreamina Logo"/>
+  </div>
 
 <hr>
 
