@@ -62,6 +62,8 @@
   <img src="https://logos-world.net/wp-content/uploads/2025/07/Django-Symbol.png" height="40" alt="Django Logo"/>
   <img width="12" />
   <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/grok.png" height="40" alt="Grok Logo"/>
+  <img width="12" />
+  <img src="https://images.clerk.com/static/logo-light-mode-400x400.png" height="40" alt="ClerkAuth Logo"/>
   </div>
 
 <hr>
