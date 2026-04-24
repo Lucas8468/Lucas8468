@@ -64,6 +64,8 @@
   <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/grok.png" height="40" alt="Grok Logo"/>
   <img width="12" />
   <img src="https://images.clerk.com/static/logo-light-mode-400x400.png" height="40" alt="ClerkAuth Logo"/>
+  <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/512/906/906349.png" height="40" alt="Microsoft Teams Logo"/>
   </div>
 
 <hr>
