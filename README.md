@@ -67,7 +67,7 @@
   <img width="12" />
   <img src="https://cdn-icons-png.flaticon.com/512/906/906349.png" height="40" alt="Microsoft Teams Logo"/>
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJESfccrd562mHw3EEfDIH_brkLdJG3QoUqw&s" height="40" alt="Notion Logo" 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJESfccrd562mHw3EEfDIH_brkLdJG3QoUqw&s" height="40" alt="Notion Logo"> 
   </div>
 
 <hr>
